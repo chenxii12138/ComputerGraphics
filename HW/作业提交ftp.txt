@@ -1,0 +1,2 @@
+地址：ftp://ras.sysu.edu.cn:6500/
+用户名/密码：sysucg2019
